@@ -17,6 +17,7 @@ function Main() {
           rel="noopener noreferrer"
         >
           Learn React
+    ALE JAZDAAAA
         </a>
         <NavLink to="/about">About</NavLink>
       </header>
